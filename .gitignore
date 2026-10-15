@@ -1,0 +1,6 @@
+/data/
+/cnn
+*.o
+*.out
+.vscode/
+
